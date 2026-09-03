@@ -1,2 +1,2 @@
 # deep-learning-projects
-Deep learning projects focused on computer vision, representation learning, detection, tracking, and applied neural networks.
+Deep learning projects spanning computer vision, natural language processing, transformers, object detection, tracking, and neural representation learning.
